@@ -187,13 +187,9 @@ pip install -e ".[dev]"
 pytest
 ```
 
-## 📄 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
 ## 📚 引用
 
-如果您在研究中使用了WebWeaver，请引用我们的论文：
 
 ```bibtex
 @article{li2025webweaver,
@@ -209,12 +205,4 @@ pytest
 - [论文地址](https://arxiv.org/abs/2509.13312)
 - [项目主页](https://webweaver.ai)
 - [文档中心](https://docs.webweaver.ai)
-- [问题反馈](https://github.com/webweaver/webweaver/issues)
 
-## 🙏 致谢
-
-感谢所有为WebWeaver项目做出贡献的开发者和研究人员。
-
----
-
-**WebWeaver** - 让AI像人类一样进行深度研究 🚀
